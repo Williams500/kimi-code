@@ -1,5 +1,15 @@
 # @moonshot-ai/kimi-code
 
+## 0.12.0
+
+### Minor Changes
+
+- [#487](https://github.com/MoonshotAI/kimi-code/pull/487) [`4d11394`](https://github.com/MoonshotAI/kimi-code/commit/4d113949c8e906c20c7188817926f44786653923) - Honor the standard `HTTP_PROXY` / `HTTPS_PROXY` / `ALL_PROXY` / `NO_PROXY` environment variables, including SOCKS proxies, for all outbound traffic.
+
+### Patch Changes
+
+- [#210](https://github.com/MoonshotAI/kimi-code/pull/210) [`d995928`](https://github.com/MoonshotAI/kimi-code/commit/d995928681fa2446902a0164919cf893b81efd75) - Show the underlying error when migration fails.
+
 ## 0.11.0
 
 ### Minor Changes
